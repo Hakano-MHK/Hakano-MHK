@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently retired from finance 
 - 🌱 I’m currently learning Python, Django, Rust and C/C++, Machine Learning
 - 🤔 I’m looking for help with Rust, Python, Machine Learning
-- 📫 How to reach me: kisa@hakan@gmail.com
+- 📫 How to reach me: kisa.hakan@gmail.com
