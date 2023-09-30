@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+#### - I'm @Hakano-MHK (Mehmet Hakan Kısa)
 
 <!--
+### Hi there 👋
+
 **Hakano-MHK/Hakano-MHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently retired from finance 
+- 🌱 I’m currently learning Python, Django, Rust and C/C++, Machine Learning
+- 🤔 I’m looking for help with Rust, Python, Machine Learning
+- 📫 How to reach me: kisa@hakan@gmail.com
